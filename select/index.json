@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "はしる! とおく! とどく!（feat. 花里みのり&桐谷遥&桃井愛莉&日野森雫&初音ミク）",
+  "base_artist": "MORE MORE JUMP！",
+  "createdAt": "2025-12-14T08:13:41.146257Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "はしる! とおく! とどく! (feat. 花里みのり&桐谷遥&桃井愛莉&日野森雫&初音ミク)",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": false,
+      "path": "select/pl_01_はしる!_とおく!_とどく!_(feat._花里みのり&桐谷遥&桃井愛莉&日野森雫&初音ミク)_MORE_MORE_JUMP!.txt"
+    }
+  ]
+}
